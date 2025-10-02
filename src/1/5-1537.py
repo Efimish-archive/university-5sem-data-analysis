@@ -1,3 +1,5 @@
+# https://informatics.msk.ru/mod/statements/view.php?chapterid=1537
+
 import sys
 sys.setrecursionlimit(100000000)
 from functools import cache

@@ -1,3 +1,5 @@
+# https://informatics.msk.ru/mod/statements/view.php?chapterid=112164
+
 x, y = map(float, input().split())
 
 a = y <= 1

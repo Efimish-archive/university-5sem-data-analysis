@@ -1,3 +1,5 @@
+# https://informatics.msk.ru/mod/statements/view.php?chapterid=112162
+
 n = int(input())
 
 if n in [1, 3, 5, 7, 8, 10, 12]:

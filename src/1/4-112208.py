@@ -1,3 +1,5 @@
+# https://informatics.msk.ru/mod/statements/view.php?chapterid=112208
+
 a, b = map(int, input().split())
 c, d = map(int, input().split())
 
